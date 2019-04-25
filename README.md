@@ -86,7 +86,7 @@ The `title` tag contains the text of the page title and it goes in the page's
 ```
 
 You can run the tests for this lab via `learn`. Make sure you save the file
-before running the this command. Failing tests will provide helpful error
+before running this command. Failing tests will provide helpful error
 messages that you can use to debug your code — read them closely for hints!
 
 ### View Your Work in the Browser
